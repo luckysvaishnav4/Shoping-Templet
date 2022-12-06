@@ -1,0 +1,217 @@
+body{
+	background-color: lavender;
+}
+.one{
+	border: 2px solid darkred;
+	margin-top:-4px;
+	margin-left:-0px;
+	background-color: white;
+}
+.one ul{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	background-color
+}
+.one ul li{
+	display: inline-block;
+}
+.one a{
+	display: block;
+	font-size: 22px;
+	font-family:Arial;
+	background: white;
+	padding:4px;
+	color:Black;
+	text-decoration:none;
+	border-radius:6px;
+	border-right: 2px solid royalblue;
+}
+.one ul li ul{
+	display: none;
+}
+.one li li{
+	display: block;
+	margin-top: -5px;
+}
+.one li:hover ul{
+	display: block;
+	position: absolute;
+}
+a:hover{
+	color: blueviolet;
+}
+.pic img{
+	width: 1260px;
+	height: 550px;
+	margin-left:2px;
+	margin-top: -8px;
+}
+
+.heading{
+	display: inline-block;
+	margin-left: 500px;
+	margin-top: -295px;
+	color:whitesmoke;
+	font-size: 30px;
+	font-family:Calibri;
+}
+ #man div
+ {
+ 	display: inline-block;
+ 	padding: 16px;
+}
+div div
+{
+	width: 22%;
+}
+#man a
+{
+	text-decoration: none;
+}
+#man a:hover
+{
+	background: #000;
+	cursor: pointer;
+}
+.man img
+{
+	height: 200px;
+	width: 200px;
+}
+.man p
+{
+	margin-left: 60px;
+}
+#women div
+ {
+ 	display: inline-block;
+ 	padding: 16px;
+}
+#women p
+{
+	margin-left: 17px;
+}
+#women a:hover{
+	background: #000;
+	cursor: pointer;
+}
+#girl div
+ {
+ 	display: inline-block;
+ 	padding: 16px;
+}
+#girl p
+{
+	margin-left: 17px;
+}
+#girl a:hover{
+	background: #000;
+	cursor: pointer;
+}
+div div
+{
+	width: 22%;
+}
+#boy div
+ {
+ 	display: inline-block;
+ 	padding: 16px;
+}
+#boy p
+{
+	margin-left: 17px;
+}
+#boy a:hover{
+	background: #000;
+	cursor: pointer;
+}
+div div
+{
+	width: 22%;
+}
+#man p
+{
+	margin-right: 100px;
+}
+
+
+
+/*.brand1 {
+	height: 50px;
+	width: 100px;
+	text-align: left;
+	display: inline-flex;
+	border: 2px solid blue;
+	border-radius: 50%;
+background-size:100% 100%;*/
+}
+.pics123{
+	border:2px solid red;
+}
+.pics123 div{
+	display: inline-flex;
+	width: 8%;
+	padding: 3px;
+}
+.pics123 div img{
+	background-size:cover;
+	width:100px;
+	height: 60px;
+	border-radius: 50%;
+	border: 2px solid black;
+}
+.footer 
+{
+	background:black;
+	display: flex;
+}
+.footer .form
+{
+	color: #fff;
+	background: ;
+	padding: 25px;
+	width: 60%;
+	border-radius: 5px solid yellow;
+}
+.footer .foot
+{
+	width: 40%;
+
+}
+.foot a{
+	color: yellow;
+	text-decoration: none;
+	padding: 1px;
+	margin-left:11px
+}
+
+.btn1 
+{
+	color: #000;
+	background: yellow;
+	margin: 20px 0px 0px 30px;
+}
+.btn1:hover	
+{
+	background: #000;
+	color: #fff;
+		cursor: pointer;
+}
+.foot{
+	border: 1px solid whitesmoke;
+}
+.form{
+	border: 1px solid whitesmoke;
+}
+.animation1 div img{
+				
+	height: 50px;
+	width:50px;
+	margin:100px;
+	}
+ .animation1 img:hover{
+					
+transform:scale(2,2);
+transition:ease-in-out 1s;
+}
